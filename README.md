@@ -1,3 +1,1 @@
-# kerllsname-REACT2022Q1
-Private repository for @kerllsname
-# react-project
+Copy of repository from frontend course by RSSchool
